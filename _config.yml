@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Saeed Ebrahimi Saadabadi"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Saeed Ebrahimi"
 description              : &description "personal description"
