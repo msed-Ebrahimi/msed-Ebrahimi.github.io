@@ -23,7 +23,7 @@ News
 
 Selected Publications
 ======
-![A Quality Aware Sample-to-Sample Comparison for Face Recognition](/images/wacv2023-paper.png)
+![A Quality Aware Sample-to-Sample Comparison for Face Recognition](/images/wacv2023-paper.png){: .align-right width="300px"}
 **A Quality Aware Sample-to-Sample Comparison for Face Recognition**
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi
 _In WACV 2023_
