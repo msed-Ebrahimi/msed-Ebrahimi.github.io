@@ -21,3 +21,11 @@ News
 - **Feb 27, 2024:** One paper accepted at CVPR-2024.
 - **Aug 15, 2022:** One paper accepted at WACV-2023.
 
+Publications
+======
+Here are some of the publications I have contributed to:
+
+- **Title:** ["A Quality Aware Sample-to-Sample Comparison for Face Recognition"](https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html)
+- **Authors:** Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi
+- ![Advances in Unsupervised Learning Techniques](/images/wacv2023-paper.jpg)
+
