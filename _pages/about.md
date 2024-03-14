@@ -24,10 +24,10 @@ News
 Selected Publications
 ======
 ![A Quality Aware Sample-to-Sample Comparison for Face Recognition](/images/wacv2023-paper.png){: .align-right width="300px"}
-**A Quality Aware Sample-to-Sample Comparison for Face Recognition**,
+- **[A Quality Aware Sample-to-Sample Comparison for Face Recognition]**(https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi,
 _In WACV 2023_,
-[ABS]([#](https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html)) | [PDF]([#](https://openaccess.thecvf.com/content/WACV2023/papers/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.pdf)https://openaccess.thecvf.com/content/WACV2023/papers/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.pdf)
+
 
 
 
