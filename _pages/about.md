@@ -23,18 +23,10 @@ News
 
 Selected Publications
 ======
-
-<p align="right">
-  <img src="/images/cvpr2024-paper.jpg" width="300px">
-</p>
 - [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**]([https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html](https://arxiv.org/abs/2403.16937)),
 Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi,
 _In CVPR 2024_,
 
-
-<p align="right">
-  <img src="/images/wacv2023-paper.png" width="300px">
-</p>
 - [**A Quality Aware Sample-to-Sample Comparison for Face Recognition**](https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi,
 _In WACV 2023_,
