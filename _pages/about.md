@@ -23,7 +23,7 @@ News
 
 Selected Publications
 ======
-- [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**]([https://openaccess.thecvf.com/content/WACV2023/html/Saadabadi_A_Quality_Aware_Sample-to-Sample_Comparison_for_Face_Recognition_WACV_2023_paper.html](https://arxiv.org/abs/2403.16937)),
+- [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**](https://arxiv.org/abs/2403.16937),
 Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi,
 _In CVPR 2024_,
 
