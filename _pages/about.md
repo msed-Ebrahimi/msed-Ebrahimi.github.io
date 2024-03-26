@@ -32,5 +32,9 @@ _In CVPR 2024_,
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi,
 _In WACV 2023_,
 
+- [**Joint Super-Resolution and Head Pose Estimation for Extreme Low-Resolution Faces**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10034761),
+Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Moktari Mostofa, Sobhan Soleymani, Nasser M. Nasrabadi,
+_In IEEE Access 2023_,
+
 
 
