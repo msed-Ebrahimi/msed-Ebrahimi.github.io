@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. student in the [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, under the supervision of [Professor Nasrabadi](https://nassernasrabadi.faculty.wvu.edu/). My research focuses on machine learning (ML) and computer vision (CV). I earned my M.Sc. and B.Sc. degrees from the Department of Electrical Engineering at K. N. Toosi University of Technology, Tehran, Iran.
-[Curriculum vitae](/files/cv.pdf)
+
+[_Curriculum vitae](/files/cv.pdf)
 
 Interests
 ======
