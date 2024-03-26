@@ -19,6 +19,7 @@ I am passionate about any ML and CV topic, but currently, these are the specials
 News
 ======
 - **Feb 27, 2024:** One paper accepted at CVPR-2024.
+- **Feb 15, 2023:** One paper accepted at IEEE Access
 - **Aug 15, 2022:** One paper accepted at WACV-2023.
 
 Selected Publications
