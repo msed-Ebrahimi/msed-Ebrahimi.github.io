@@ -17,7 +17,7 @@ I am passionate about any ML and CV topic, but currently, these are the specials
 
 * Metric learning
 * Un/semi/weakly-supervised Learning
-* Adversarial Learning
+* Diffusion Models
 * Synthetic Datasets
 
 News
