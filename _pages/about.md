@@ -28,7 +28,7 @@ News
 
 Selected Publications
 ======
-- [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**](https://arxiv.org/abs/2403.16937),
+- [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**]([https://arxiv.org/abs/2403.16937](https://openaccess.thecvf.com/content/CVPR2024/papers/Saadabadi_Hyperspherical_Classification_with_Dynamic_Label-to-Prototype_Assignment_CVPR_2024_paper.pdf)),
 Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi,
 _In CVPR 2024_, [CODE](https://github.com/msed-Ebrahimi/DL2PA_CVPR24)
 
