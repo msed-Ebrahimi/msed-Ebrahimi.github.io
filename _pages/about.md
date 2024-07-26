@@ -23,17 +23,17 @@ I am passionate about any ML and CV topic, but currently, these are the specials
 
 News
 ======
-- **Jul 1, 2024:** One paper accepted at ECCV-2024.
-- **Feb 27, 2024:** One paper accepted at CVPR-2024.
-- **Feb 15, 2023:** One paper accepted at IEEE Access
-- **Aug 15, 2022:** One paper accepted at WACV-2023.
+- **Jul, 2024:** One paper accepted at ECCV-2024.
+- **Feb, 2024:** One paper accepted at CVPR-2024.
+- **Feb, 2023:** One paper accepted at IEEE Access
+- **Aug, 2022:** One paper accepted at WACV-2023.
 
 Selected Publications
 ======
 
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
-_In ECCV 2024_, [CODE]([https://github.com/msed-Ebrahimi/DL2PA_CVPR24](https://github.com/msed-Ebrahimi/ARoFace))
+_In ECCV 2024_, [CODE](https://github.com/msed-Ebrahimi/ARoFace)
 
 - [**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**](https://arxiv.org/abs/2403.16937),
 Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Sahar Rahimi Malakshan, Nasser M. Nasrabadi,
