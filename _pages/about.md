@@ -19,7 +19,7 @@ I am passionate about any ML and CV topic, but currently, these are the specials
 - Autoregressive vision
 - Adversarial Learning
 - Representation Learning
-- Un/semi/weakly-supervised Learning
+
 
 News
 ======
