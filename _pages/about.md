@@ -16,7 +16,7 @@ Interests
 
 I am passionate about any ML and CV topic, but currently, these are the specials:
 
-- Autoregressive vision
+- Generative models
 - Adversarial Learning
 - Representation Learning
 
