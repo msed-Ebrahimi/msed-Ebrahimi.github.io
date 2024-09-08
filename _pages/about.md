@@ -9,7 +9,7 @@ redirect_from:
 I am a PhD researcher at [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://ep.jhu.edu/faculty/nasser-nasrabadi/). I obtained my M.Sc. and B.Sc. degrees from the Department of Electrical Engineering at [K.N.T University of Technology](https://en.kntu.ac.ir/), Tehran, Iran.
 
 
-[\[Curriculum vitae\]](images/cv.pdf)
+[\[Curriculum vitae\]](image/cv.pdf)
 
 Interests
 ----
