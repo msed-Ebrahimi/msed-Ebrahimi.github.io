@@ -11,14 +11,10 @@ I am a PhD researcher at [Department of Computer Science and Electrical Engineer
 
 [\[Curriculum vitae\]](files/cv.pdf)
 
-Interests
+Research Interests
 ----
 
-I am passionate about any ML and CV topic, but currently, these are the specials:
-
-- Generative models
-- Adversarial Learning
-- Representation Learning
+My primary research focuses on 2D computer vision, domain generalization, adversarial attacks, unsupervised representation learning, metric learning and generative vision. I specialize in areas such as adversarial robustness, un/semi/weakly supervised learning, biometrics, autoregressive models and discriminative models.
 
 
 News
