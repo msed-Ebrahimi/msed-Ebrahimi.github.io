@@ -14,7 +14,7 @@ I am a PhD researcher at [Department of Computer Science and Electrical Engineer
 Research Interests
 ----
 
-My primary research focuses on 2D computer vision, multi-modal foundation models, domain generalization, adversarial attacks, unsupervised representation learning, metric learning and generative vision. I specialize in areas such as weak-to-strong generalization, adversarial robustness, un/semi/weakly supervised learning, biometrics, autoregressive models, and discriminative models.
+My primary research focuses on 2D computer vision, multi-modal foundation models, unsupervised representation learning, metric learning, generative vision, domain generalization, transfer learning, and adversarial learning. I specialize in areas such as weak-to-strong generalization, un/semi/weakly supervised learning, autoregressive models, dataset distillation, adversarial robustness, biometrics, and discriminative models.
 
 
 News
