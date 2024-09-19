@@ -20,6 +20,7 @@ My primary research focuses on 2D computer vision, multi-modal foundation models
 News
 ======
 - **Jul, 2024:** One paper accepted at ECCV-2024.
+- **Jun, 2024:** One paper accepted at IJCB-2024 (Oral).
 - **Feb, 2024:** One paper accepted at CVPR-2024.
 - **Feb, 2023:** One paper accepted at IEEE Access
 - **Aug, 2022:** One paper accepted at WACV-2023.
