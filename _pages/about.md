@@ -19,6 +19,7 @@ My primary research focuses on 2D computer vision, multi-modal foundation models
 
 News
 ======
+-**Oct, 2024:** One paper accepted at WACV-2025
 - **Jul, 2024:** One paper accepted at ECCV-2024.
 - **Jun, 2024:** One paper accepted at IJCB-2024 (Oral).
 - **Feb, 2024:** One paper accepted at CVPR-2024.
@@ -27,6 +28,10 @@ News
 
 Selected Publications
 ======
+
+- [**Decomposed Distribution Matching in Dataset Condensation**](),
+Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Nasser M. Nasrabadi,
+_In WACV 2025_, 
 
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
