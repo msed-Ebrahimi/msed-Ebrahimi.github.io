@@ -31,7 +31,7 @@ Selected Publications
 
 - [**Decomposed Distribution Matching in Dataset Condensation**](),
 Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Nasser M. Nasrabadi,
-_In WACV 2025_, 
+_In WACV 2025_, [CODE coming soon]
 
 - [**ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition**](https://arxiv.org/abs/2407.14972),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Nasser M. Nasrabadi,
