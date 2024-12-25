@@ -49,3 +49,8 @@ _In IEEE Access 2023_,
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Zafari, Moktari Mostofa, Nasser M. Nasrabadi,
 _In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023_,
 
+Professional activities
+======
+-  Reviewer of CVPR24, CVPR25, ICLR25, AAAI25, and WACV25
+
+
