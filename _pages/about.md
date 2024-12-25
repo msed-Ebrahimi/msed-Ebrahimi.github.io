@@ -51,6 +51,6 @@ _In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vi
 
 Professional activities
 ======
--  Reviewer of CVPR24, CVPR25, ICLR25, AAAI25, and WACV25
+-  Reviewer of CVPR, ICLR, AAAI, and WACV
 
 
