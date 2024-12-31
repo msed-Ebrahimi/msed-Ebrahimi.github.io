@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD researcher at [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://ep.jhu.edu/faculty/nasser-nasrabadi/). I obtained my M.Sc. and B.Sc. degrees from the Department of Electrical Engineering at [K.N.T University of Technology](https://en.kntu.ac.ir/), Tehran, Iran.
+I am a PhD researcher at [Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with [Prof. Nasrabadi](https://ep.jhu.edu/faculty/nasser-nasrabadi/). I obtained my M.Sc. and B.Sc. degrees from the Department of Electrical Engineering at [K.N.T University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. I am open to collaboration and available to address any research inquiries. Please do not hesitate to reach out to me via linkedin or email at: me000 [at] mix [dot] wvu [dot] edu.
 
 
 [\[Curriculum vitae\]](files/cv.pdf)
@@ -51,6 +51,6 @@ _In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vi
 
 Professional activities
 ======
--  Reviewer of CVPR, ICLR, AAAI, and WACV
+-  Reviewer of CVPR24, CVPR25, ICLR25, AAAI25, and WACV25.
 
 
