@@ -16,7 +16,7 @@ Please do not hesitate to reach out to me via linkedin or email at: me00018 [at]
 Research Interests
 ----
 
-My primary research focuses on 2D computer vision, concept unlearning, multi-modal foundation models, unsupervised representation learning, metric learning, generative vision, domain generalization, transfer learning, and adversarial learning. I specialize in areas such as diffusion unlearning, weak-to-strong generalization, un/semi/weakly supervised learning, autoregressive models, dataset distillation, adversarial robustness, biometrics, and discriminative models.
+My primary research focuses on 2D computer vision, diffusion concept unlearning, multi-modal foundation models, unsupervised representation learning, metric learning, domain generalization, transfer learning, and adversarial learning. I specialize in areas such as diffusion unlearning, weak-to-strong generalization, un/semi/weakly supervised learning, autoregressive models, dataset distillation, adversarial robustness, biometrics, and discriminative models.
 
 
 News
