@@ -32,6 +32,10 @@ News
 Selected Publications
 ======
 
+- [**GIF: Generative Inspiration for Face Recognition at Scale**](https://arxiv.org/pdf/2505.03012),
+Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Srinjoy Das, Jeremy M. Dawson, Nasser M. Nasrabadi,
+_In CVPR 2025_, [CODE](https://github.com/msed-Ebrahimi/GIF)
+
 - [**Decomposed Distribution Matching in Dataset Condensation**](https://arxiv.org/abs/2412.04748),
 Sahar Rahimi Malakshan, Mohammad Saeed Ebrahimi Saadabadi, Ali Dabouei, Nasser M. Nasrabadi,
 _In WACV 2025_, [CODE](https://github.com/SaharR1372/DM_Style_matching)
