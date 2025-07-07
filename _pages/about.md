@@ -21,6 +21,7 @@ My primary research focuses on 2D computer vision, diffusion concept unlearning,
 
 News
 ======
+- **May, 2025:** Starting ML internship at Pinterest.
 - **Feb, 2025:** One paper accepted at CVPR-2025.
 - **Oct, 2024:** One paper accepted at WACV-2025
 - **Jul, 2024:** One paper accepted at ECCV-2024.
