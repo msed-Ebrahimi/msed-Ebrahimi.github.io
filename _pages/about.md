@@ -21,6 +21,7 @@ My primary research focuses on 2D computer vision, Preference Alignment, diffusi
 
 News
 ======
+- **Nov, 2025:** Successfully defended my PhD with **no corrections**.
 - **May, 2025:** Starting ML internship at Pinterest.
 - **Feb, 2025:** One paper accepted at CVPR-2025.
 - **Oct, 2024:** One paper accepted at WACV-2025
