@@ -34,6 +34,10 @@ News
 Selected Publications
 ======
 
+- [**Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest**](https://arxiv.org/pdf/2512.17277),
+Saeed Ebrahimi, Weijie Jiang, Jaewon Yang, Olafur Gudmundsson, Yucheng Tu, Huizhong Duan,
+Submitted.
+
 - [**GIF: Generative Inspiration for Face Recognition at Scale**](https://arxiv.org/pdf/2505.03012),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Srinjoy Das, Jeremy M. Dawson, Nasser M. Nasrabadi,
 _In CVPR 2025_, [CODE](https://github.com/msed-Ebrahimi/GIF)
