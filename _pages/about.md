@@ -21,6 +21,7 @@ My primary research focuses on 2D computer vision, Preference Alignment, diffusi
 
 News
 ======
+- **Dec, 2025:** My **Pinterest** work on solving the cold-start problem in RecSys is now out.
 - **Nov, 2025:** Successfully defended my PhD with **no corrections**.
 - **May, 2025:** Starting ML internship at Pinterest.
 - **Feb, 2025:** One paper accepted at CVPR-2025.
