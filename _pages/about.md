@@ -21,7 +21,7 @@ My primary research focuses on 2D computer vision, Preference Alignment, diffusi
 
 News
 ======
-- **Dec, 2025:** My **Pinterest** work on solving the cold-start problem in RecSys is now out.
+- **Dec, 2025:** My **Pinterest** work on solving the cold-start problem in RecSys is accepted to WWW26.
 - **Nov, 2025:** Successfully defended my PhD with **no corrections**.
 - **May, 2025:** Starting ML internship at Pinterest.
 - **Feb, 2025:** One paper accepted at CVPR-2025.
@@ -37,7 +37,7 @@ Selected Publications
 
 - [**Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest**](https://arxiv.org/pdf/2512.17277),
 Saeed Ebrahimi, Weijie Jiang, Jaewon Yang, Olafur Gudmundsson, Yucheng Tu, Huizhong Duan,
-Submitted.
+The ACM Web Conference 2026.
 
 - [**GIF: Generative Inspiration for Face Recognition at Scale**](https://arxiv.org/pdf/2505.03012),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Srinjoy Das, Jeremy M. Dawson, Nasser M. Nasrabadi,
